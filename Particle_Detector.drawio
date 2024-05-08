@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T13:47:56.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="995KGuw1VM6NfutKPr7s" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T13:53:16.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HCnP-fYjoPCrkU_Oxmce" version="24.3.1" type="github">
   <diagram name="Page-1" id="IClFZ-mQC-XqtTfSZbQw">
-    <mxGraphModel dx="358" dy="172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,12 +98,12 @@
         <mxCell id="Lu5b3lH1lwCea083h_Vl-55" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="150" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lu5b3lH1lwCea083h_Vl-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lu5b3lH1lwCea083h_Vl-57" value="&lt;b&gt;LCD Display&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lu5b3lH1lwCea083h_Vl-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.371;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lu5b3lH1lwCea083h_Vl-57" target="Lu5b3lH1lwCea083h_Vl-2">
+        <mxCell id="Lu5b3lH1lwCea083h_Vl-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lu5b3lH1lwCea083h_Vl-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="138" y="140" as="targetPoint" />
+            <mxPoint x="138" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
